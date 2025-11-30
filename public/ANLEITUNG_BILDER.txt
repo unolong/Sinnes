@@ -1,0 +1,14 @@
+
+Bitte legen Sie Ihre Bilder in diesen Ordner ("public").
+Damit die Webseite die Bilder automatisch erkennt, benennen Sie diese bitte wie folgt:
+
+image_1.jpg  -> Detailaufnahme (Zinkenverbindung)
+image_2.jpg  -> Die zwei Couchtische auf Pflasterstein
+image_3.jpg  -> Das runde Holzbrett / Tischplatte
+image_4.jpg  -> Der Hocker vor der Weinrebe
+image_5.jpg  -> Die Sitzgruppe mit Tisch und Bank
+image_6.jpg  -> Der Schreibtisch mit Glasvitrine
+image_7.jpg  -> Der Rollcontainer draußen
+image_8.jpg  -> Die große Wohnwand / Regal
+
+Sobald die Dateien hier liegen, erscheinen sie automatisch auf der Webseite (ggf. Seite neu laden).
